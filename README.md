@@ -1,6 +1,5 @@
 # datafun-04-notebooks
 
-<!-- TODO: update the GitHub account name to match YOUR GitHub account name -->
 
 [![Docs Deploy](https://github.com/gracetulsi/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml/badge.svg?branch=main)](https://github.com/gracetulsi/datafun-04-notebooks/actions/workflows/deploy-mkdocs.yml)
 [![CI](https://github.com/gracetulsi/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml/badge.svg?branch=main)](https://github.com/gracetulsi/datafun-04-notebooks/actions/workflows/ci-basic-mkdocs.yml)
@@ -8,6 +7,22 @@
 [![Python](https://img.shields.io/badge/python-3.14-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 > Professional Python project: exploratory data analysis with Jupyter notebooks.
+> 
+## Exploratory Data Analysis Notebook
+
+This project includes an exploratory data analysis (EDA) notebook examining restaurant tipping behavior using the Seaborn `tips` dataset.
+
+The analysis is contained in the following notebook:
+- `notebooks/eda_gracetulsi_tips.ipynb`
+
+This notebook demonstrates:
+- Loading and inspecting a tabular dataset
+- Assessing data quality (missing values and duplicates)
+- Descriptive statistics for numeric variables
+- Correlation analysis
+- Visual exploration of numeric and categorical relationships
+
+The notebook is designed to be run top-to-bottom using the provided Python environment.
 
 ## Project Planning
 
